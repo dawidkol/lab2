@@ -1,4 +1,4 @@
-﻿#  W    zorowane na przykładzie Rona Zacharskiego
+﻿##  Wzorowane na przykładzie Rona Zacharskiego
 
 
 from math import sqrt
